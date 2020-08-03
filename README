@@ -1,0 +1,16 @@
+# Zenklub JSON update case
+
+## Instructions
+
+- Clone the repository by running `git clone https://github.com/garlibe/zenklub` or  download the files from the repository;
+- Install dependencies by running `npm i` commmand;
+- Run the routine by running `node routine.js` command;
+- A new updated JSON file will be created.
+
+## Notes
+
+- The files used by the routine must be the same as the ones provided, with the same table header and placed at the assets folder.
+
+## Languages
+
+- NodeJs.
